@@ -80,7 +80,7 @@ Workflow [Rust CI Pipeline](https://github.com/Andrey76546/my-rust-app/actions/w
 - `Build & Test` — `cargo check`, debug/release-сборки и тесты;
 - `Build Docker Image` — Buildx, сборка и запуск контейнера, загрузка `docker-image.tar.gz`.
 
-Все запуски: [GitHub Actions](https://github.com/Andrey76546/my-rust-app/actions).
+Успешный запуск: [Rust CI Pipeline #2](https://github.com/Andrey76546/my-rust-app/actions/runs/41017365964). Все запуски: [GitHub Actions](https://github.com/Andrey76546/my-rust-app/actions).
 
 ## Результаты выполнения
 
